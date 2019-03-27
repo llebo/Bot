@@ -1,0 +1,34 @@
+{
+  "noMember": {
+    "id": "401552817799561226",
+    "name": "@everyone"
+  },
+  "membre": {
+    "id": "404489379780886528",
+    "name": "Membre"
+  },
+  "habitue": {
+    "id": "404494773672607755",
+    "name": "Habitué"
+  },
+  "modo": {
+    "id": "404427886934884352",
+    "name": "Modo"
+  },
+  "streamer": {
+    "id": "404427854424702979",
+    "name": "Streamer"
+  },
+  "admin": {
+    "id": "404423765855043595",
+    "name": "Team Stnuop"
+  },
+  "bot": {
+    "id": "404718961016569856",
+    "name": "Bots"
+  },
+  "muted": {
+    "id": "434873014023094273",
+    "name": "Les mutés"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "test": {
+    "id": "407766972798074880",
+    "name": "test"
+  },
+  "pendu": {
+    "id": "408519771588526091",
+    "name": "pendu"
+  },
+  "demineur": {
+    "id": "409199192272011264",
+    "name": "demineur"
+  },
+  "mastermind": {
+    "id": "414269715733544972",
+    "name": "mastermind"
+  },
+  "quizz": {
+    "id": "423817126214631434",
+    "name": "quizz"
+  },
+  "live": {
+    "id": "404493674630742026",
+    "name": "annonces-lives"
+  }
+}

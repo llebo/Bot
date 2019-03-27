@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/MERN-boilerplate/client/app/components/Home/Home.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/MERN-boilerplate/client/app/utils/storage.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/MERN-boilerplate/config/config.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/MERN-boilerplate/server/models/User.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/MERN-boilerplate/server/models/UserSession.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/MERN-boilerplate/server/routes/api/signin.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/bot/logs.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/minijeux/demineur/demineur.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/minijeux/mastermind/mastermind.jsx" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/components/minijeux/mastermind/messages.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/minijeux/quizz/quizz.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/twitch/twitch.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dj1.jsx" charset="UTF-8" />
+  </component>
+</project>

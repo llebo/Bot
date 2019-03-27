@@ -1,0 +1,18 @@
+{
+  "pendu0": "\n  ,==========Y===\n  ||  /\n  || /\n  ||/\n  ||\n  ||\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu1": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/\n  ||\n  ||\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu2": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/        O\n  ||\n  ||\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu3": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/        O\n  ||         |\n  ||\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu4": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/        O\n  ||        /|\n  ||\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu5": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/        O\n  ||        /|\\ \n  ||\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu6": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/        O\n  ||        /|\\ \n  ||        /\n  ||\n /||\\\n//||\\\\\n=================\n",
+  "pendu7": "\n  ,==========Y===\n  ||  /      |\n  || /       |\n  ||/        O\n  ||        /|\\ \n  ||        / \\ \n  ||\n /||\\\n//||\\\\\n=================\n",
+  "started": "La partie est commencée!",
+  "ended": "La partie est finie!",
+  "find": "Mot à trouver: ",
+  "win": "Vous avez gagné le mot été: ",
+  "lost": "Vous avez perdu le mot été: ",
+  "lettres": "Lettres ou mots déjà suggérées: ",
+  "help": "Commandes: \n  !p help <temps> -> Pour avoir ce message.\n    <temps> -> Temps d'affichage du message en secondes (facultatif)\n\n  !p l <lettre>\n    <lettre> -> Remplacer par la lettre que vous voulez proposer.\n  !p m <mot>\n    <mot> -> Remplacer par le mot que vous voulez proposer.\n\n Une fois la partie terminé, elle se relance automatiquement au bout de 10 secondes."
+
+}

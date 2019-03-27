@@ -1,0 +1,4 @@
+{
+  "help": "Commandes: \n  !q help <temps> -> Pour avoir ce message.\n    <temps> -> Temps d'affichage du message en secondes (facultatif)\n\n  !q <nombre>\n    <nombre> -> Remplacer par le nombre de votre réponse.\n\n Une fois la partie terminé, elle se relance automatiquement au bout de 10 secondes."
+
+}

@@ -1,0 +1,3 @@
+{
+  "help": "Les commandes suivantes pour le DJ sont disponible: \n\t**!dj** ou **!djhelp** - Pour avoir accès à toutes les commandes disponible pour le DJ \n\t**!play** - Active la musique du DJ \n\t**!pause** - Met en pause le DJ. \n\t**!resume** - Reprends la musique en cours \n\t**!stop** - Arrête le DJ \n\t**!volume+** - Augmente le volume du DJ \n\t**!volume-** - Baisse le volume du DJ \n\t**!skip** - Passe à la musique suivante (Habitués seulement)"
+}

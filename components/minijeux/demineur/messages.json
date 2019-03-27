@@ -1,0 +1,14 @@
+{
+  "title": "               Démineur",
+  "tab0": "     ------------------------------",
+  "tab1": "    | A  B  C  D  E  F  G  H  I  J |",
+  "tab2": " ----------------------------------|",
+  "tabEnd": " ----------------------------------",
+  "bombs": "             Nombres de bombes : ",
+  "fini": "La partie n'est pas commencé!",
+  "started": "La partie est commencée! ",
+  "ended": "La partie est finie! ",
+  "help": "Commandes: \n  !d help <temps> -> Pour avoir ce message.\n    <temps> -> Temps d'affichage du message en secondes (facultatif)\n\n  !d <col> <lin> p   OU   !d <lin> <col> p\n    <col> -> Remplacer par la lettre de la colonne.\n    <lin> -> Remplacer par le chiffre de la ligne.\n    p -> Permet de faire une proposition de bombe sur la case indiqué. (Facultatif)\n\n\nSymbols: \n  # -> Case non découverte.\n  0-8 -> Nombre de bombes autour de la case.\n  B -> Cases avec une bombe.\n  P -> Proposition de bombe sur la case.\n\n Une fois la partie terminé, elle se relance automatiquement au bout de 10 secondes.",
+  "win": "Bravo, vous avez réussi!",
+  "lost": "Dommage, vous êtes tombé sur une bombe!"
+}

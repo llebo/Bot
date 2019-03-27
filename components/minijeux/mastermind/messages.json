@@ -1,0 +1,12 @@
+{
+  "head": "--------------------------------\n|                              |\n|          MASTERMIND          |\n|                              |\n--------------------------------\n|                |             |\n",
+  "default": "|    # # # #     |   \u25CC \u25CC \u25CC \u25CC   |\n",
+  "end": "|                |             |\n--------------------------------",
+  "start": "|    ",
+  "middle": "     |   ",
+  "finish": "   |\n",
+  "started": "La partie est commencée!",
+  "ended": "La partie est finie!",
+  "help": "Commandes: \n  !m help <temps> -> Pour avoir ce message.\n    <temps> -> Temps d'affichage du message en secondes (facultatif)\n\n  !m <valeur> <valeur> <valeur> <valeur>\n    <valeur> -> Remplacer par la valeur de 1 à 6 .\n\nRègles: \n L'objectif du Mastermind est de trouvé la bonne combinaison de chiffre crée par le bot. Pour essayer de trouvr, suggérer une combinaison de 4 chiffres, allant de 0 à 9. Après chaque réponse, une combinaison de couleur va apparaitre à droite de votre combinaison: \n   \u25CC - Nombre inexistant\n   \u25CB - Nombre existant mais pas à la bonne place\n   \u25CF - Nombre existant et à la bonne place\n\n Une fois la partie terminé, elle se relance automatiquement au bout de 10 secondes."
+
+}
